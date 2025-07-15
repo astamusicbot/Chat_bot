@@ -25,9 +25,8 @@ IMG = [
 
 # Random Stickers
 STICKER = [
-    "CAACAgEAAxkBAAIJomRdLhVJVebkx0JRsp1STwTv3t3eAAJrAgAClpxhRD4z4bgqlIF0LwQ",
-    "CAACAgUAAxkBAAIJo2RdLhjLjCpmPipMT8ksrqwUjGAIAAK1BQACLZ8oVFVNmhalU8eOLwQ",
-    "CAACAgUAAxkBAAIJpGRdLkpU7t2WDj9zUFgCJ5uHUdGHAALTBAAC59CYV3t9x-f0tt4OLwQ",
+    "https://files.catbox.moe/ndfx8t.webm",
+    "https://files.catbox.moe/gfsd7p.webm",
 ]
 
 
